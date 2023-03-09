@@ -1,0 +1,19 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Matías Fernández",
+            "puesto": "Web Developer"
+        },
+        {
+            "id": 2,
+            "nombre": "Nicolás Medina",
+            "puesto": "CEO"
+        },
+        {
+            "id": 3,
+            "nombre": "Pauli Catalan",
+            "puesto": "Manager"
+        }
+    ]
+}
